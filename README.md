@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shauryaFulfagar
+- 👀 I’m interested in developing apps
+- 🌱 I’m currently learning dart
+- 📫 You can reach me at shauryafulfagar03@gmail.com
