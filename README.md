@@ -1,4 +1,4 @@
-- Hi, I’m @shauryaFulfagar
-- I’m interested in developing apps
+- Hi, I’m @ShauryaFulfagar
+- I’m interested in developing full stack ML based apps and cloud computing
 - I’m currently learning dart with flutter
-- You can reach me at flossy_bucket#9785-(discord)
+- You can reach me at shaurya_fulfagar-(discord)
